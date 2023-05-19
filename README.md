@@ -5,10 +5,8 @@ This application will help us to visualise in real-time poses estimated by our A
 The Python streamer allows to stream on a TCP socket at at specific frequency, and without drifts, strings or ndarrays of an Oculus hand pose.
 The Unity application enables the visualisation of the received hand pose in real-time.
 
-<img src="https://drive.google.com/uc?id=1q9HsWYOo2QHuH8OHAyerCYtwBhIS9nn8"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
+<img align="left" width="400" height="350" 
+     src="https://drive.google.com/uc?export=view&id=1q9HsWYOo2QHuH8OHAyerCYtwBhIS9nn8">
 
 # Notes
 Stream poses to address 127.0.0.1 with 25001 to move the hand representing the true pose (left) and to address 127.0.0.1 with 25002 to move the hand representing the AI estimated pose from EMG  (right)
