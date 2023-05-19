@@ -6,7 +6,7 @@ The Python streamer allows to stream on a TCP socket at at specific frequency, a
 The Unity application enables the visualisation of the received hand pose in real-time.
 
 <img align="left" width="400" height="350" 
-     src="https://drive.google.com/uc?export=view&id=1q9HsWYOo2QHuH8OHAyerCYtwBhIS9nn8">
+     src="https://drive.google.com/uc?export=view&id=1q9HsWYOo2QHuH8OHAyerCYtwBhIS9nn8"/>
 
 # Notes
 Stream poses to address 127.0.0.1 with 25001 to move the hand representing the true pose (left) and to address 127.0.0.1 with 25002 to move the hand representing the AI estimated pose from EMG  (right)
