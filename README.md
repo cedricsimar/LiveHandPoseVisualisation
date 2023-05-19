@@ -21,7 +21,8 @@ The code of this work was based on/adapted from:
   - Martin Colot Master thesis code in Unity for hand visualisation
   - https://github.com/ConorZAM/Python-Unity-Socket for the TCP socket connection
 
-        _
+```
     .__(.)<  (KWAK)
      \___)    
 ~~~~~~~~~~~~~~~~~~~~
+```
