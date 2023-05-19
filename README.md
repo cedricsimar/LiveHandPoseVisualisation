@@ -13,8 +13,8 @@ The main files where the streaming magic happens are:
   - LiveHandPoseVisualisation/LiveHandPoseVisualisation/Assets/scripts/resultDisplaying/handDataDisplaying.cs
 
 # Dependencies
-Streamer: Python 3.10 with Numpy (+ MNE for working example 2)
-Visualisation: Unity 2020.3.16f1
+  - Streamer: Python 3.10 with Numpy (+ MNE for working example 2)
+  - Visualisation: Unity 2020.3.16f1
 
 # Credits
 The code of this work was based on/adapted from:
