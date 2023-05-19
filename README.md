@@ -13,7 +13,7 @@ The Unity application enables the visualisation of the received hand pose in rea
 
 
 # Notes
-Stream poses to address 127.0.0.1 with 25001 to move the hand representing the true pose (left) and to address 127.0.0.1 with 25002 to move the hand representing the AI estimated pose from EMG  (right)
+Stream poses to address 127.0.0.1 on port 25001 to move the hand representing the true pose (left) and to address 127.0.0.1 on port 25002 to move the hand representing the AI estimated pose from EMG  (right)
 
 The main files where the streaming magic happens are:
   - LiveHandPoseVisualisation/HandPoseStreamer/pose_streamer.py
